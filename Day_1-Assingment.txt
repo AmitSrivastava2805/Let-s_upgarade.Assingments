@@ -1,0 +1,3 @@
+num = [int(i) for i in range (input("Enter the values :")).split()]
+
+print(sum(num))
